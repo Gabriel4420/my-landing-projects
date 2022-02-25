@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Landing Page Personal" />
+  <img src="src/media/images/HomePage.png" alt="Minha Landing Page"/>
 
   &#xa0;
 
@@ -24,7 +24,7 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/Gabriel4420/my-landing-projects?color=56BEB8" />
 </p>
 
-<img src="src/media/images/HomePage.png"/>
+
 
 <hr>
 
